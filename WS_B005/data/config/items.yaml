@@ -1,0 +1,36 @@
+items:
+  - id: tourist_breakfast
+    name: "Консерва 'Завтрак туриста'"
+    price: 300
+    weight: 0.3
+    heal: 20
+    type: "еда"
+    disappear_on_teleport: 1
+  - id: sausage
+    name: "Колбаса"
+    price: 150
+    weight: 0.2
+    heal: 15
+    type: "еда"
+    disappear_on_teleport: 1
+  - id: vodka
+    name: "Водка"
+    price: 200
+    weight: 0.5
+    heal: 10
+    type: "еда"
+    disappear_on_teleport: 1
+  - id: bandage
+    name: "Бинт"
+    price: 500
+    weight: 0.1
+    heal: 30
+    type: "медицина"
+    disappear_on_teleport: 1
+  - id: medkit
+    name: "Аптечка"
+    price: 1000
+    weight: 0.5
+    heal: 75
+    type: "медицина"
+    disappear_on_teleport: 1

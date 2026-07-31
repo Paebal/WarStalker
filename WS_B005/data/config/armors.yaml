@@ -1,0 +1,49 @@
+armors:
+  - id: leather_jacket
+    name: "Кожанка"
+    absorption: 0.10
+    max_durability: 50
+    price: 200
+    slowdown: 5
+    disappear_on_teleport: 1
+    tier: 1
+  - id: chainmail_leather
+    name: "Кольчужная кожанка"
+    absorption: 0.20
+    max_durability: 75
+    price: 400
+    slowdown: 8
+    disappear_on_teleport: 1
+    tier: 2
+  - id: zarya_suit
+    name: "Комбинезон 'Заря'"
+    absorption: 0.40
+    max_durability: 150
+    price: 800
+    slowdown: 10
+    disappear_on_teleport: 1
+    tier: 3
+  - id: mercenary_suit
+    name: "Комбинезон наёмника"
+    absorption: 0.55
+    max_durability: 200
+    price: 1500
+    slowdown: 12
+    disappear_on_teleport: 1
+    tier: 4
+  - id: bulat
+    name: "Булат"
+    absorption: 0.65
+    max_durability: 300
+    price: 3000
+    slowdown: 20
+    disappear_on_teleport: 1
+    tier: 5
+  - id: quantum_ghost
+    name: "Квантовая призрачная броня"
+    absorption: 0.90
+    max_durability: 500
+    price: 20000
+    slowdown: 0
+    disappear_on_teleport: 1
+    tier: 9

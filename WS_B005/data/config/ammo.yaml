@@ -1,0 +1,46 @@
+ammo:
+  - caliber: "9x18"
+    name: "9x18"
+    price: 1
+    weight: 0.01
+    disappear_on_teleport: 1
+  - caliber: "9x19"
+    name: "9x19"
+    price: 2
+    weight: 0.01
+    disappear_on_teleport: 1
+  - caliber: "5.45x39"
+    name: "5.45x39"
+    price: 3
+    weight: 0.02
+    disappear_on_teleport: 1
+  - caliber: "12/70"
+    name: "12/70"
+    price: 5
+    weight: 0.05
+    disappear_on_teleport: 1
+  - caliber: "7.62x39"
+    name: "7.62x39"
+    price: 4
+    weight: 0.03
+    disappear_on_teleport: 1
+  - caliber: "5.56x45"
+    name: "5.56x45"
+    price: 4
+    weight: 0.02
+    disappear_on_teleport: 1
+  - caliber: "9x39"
+    name: "9x39"
+    price: 8
+    weight: 0.03
+    disappear_on_teleport: 1
+  - caliber: "7.62x54"
+    name: "7.62x54"
+    price: 6
+    weight: 0.04
+    disappear_on_teleport: 1
+  - caliber: "Электропатрон"
+    name: "Электропатрон"
+    price: 50
+    weight: 0.1
+    disappear_on_teleport: 1

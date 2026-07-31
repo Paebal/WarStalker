@@ -1,0 +1,204 @@
+weapons:
+  - id: pm
+    name: "ПМ"
+    type: 2
+    damage: 15
+    magazine_capacity: 8
+    total_ammo: 16
+    caliber: "9x18"
+    tier: 1
+    price: 200
+    reload_time: 1.5
+    accuracy: 0.8
+    pellets: 1
+    range: 20
+    burst: 3
+    max_durability: 400
+    disappear_on_teleport: 1
+
+  - id: knife
+    name: "Нож"
+    type: 3
+    damage: 30
+    magazine_capacity: 1
+    total_ammo: 0
+    caliber: "none"
+    tier: 1
+    price: 50
+    reload_time: 0.5
+    accuracy: 1.0
+    pellets: 1
+    range: 1
+    burst: 1
+    max_durability: 1000
+    disappear_on_teleport: 1
+
+  - id: glock_17
+    name: "Glock-17"
+    type: 2
+    damage: 15
+    magazine_capacity: 17
+    total_ammo: 0
+    caliber: "9x19"
+    tier: 1
+    price: 300
+    reload_time: 1.5
+    accuracy: 0.8
+    pellets: 1
+    range: 20
+    burst: 3
+    max_durability: 400
+    disappear_on_teleport: 1
+
+  - id: obrez
+    name: "Обрез"
+    type: 2
+    damage: 6
+    magazine_capacity: 2
+    total_ammo: 0
+    caliber: "12/70"
+    tier: 1
+    price: 400
+    reload_time: 2.5
+    accuracy: 0.9
+    pellets: 8
+    range: 20
+    burst: 2
+    max_durability: 400
+    disappear_on_teleport: 1
+
+  - id: usp
+    name: "USP"
+    type: 2
+    damage: 18
+    magazine_capacity: 10
+    total_ammo: 0
+    caliber: "9x19"
+    tier: 2
+    price: 500
+    reload_time: 1.4
+    accuracy: 0.85
+    pellets: 1
+    range: 25
+    burst: 3
+    max_durability: 300
+    disappear_on_teleport: 1
+
+  - id: dvustvolka
+    name: "Двустволка"
+    type: 2
+    damage: 8
+    magazine_capacity: 2
+    total_ammo: 0
+    caliber: "12/70"
+    tier: 2
+    price: 600
+    reload_time: 3.0
+    accuracy: 0.75
+    pellets: 10
+    range: 40
+    burst: 2
+    max_durability: 450
+    disappear_on_teleport: 1
+
+  - id: kalash
+    name: "Калаш"
+    type: 1
+    damage: 25
+    magazine_capacity: 30
+    total_ammo: 0
+    caliber: "5.45x39"
+    tier: 3
+    price: 1500
+    reload_time: 2.0
+    accuracy: 0.85
+    pellets: 1
+    range: 50
+    burst: 5
+    max_durability: 600
+    disappear_on_teleport: 1
+
+  - id: spas12
+    name: "СПАС-12"
+    type: 1
+    damage: 10
+    magazine_capacity: 8
+    total_ammo: 0
+    caliber: "12/70"
+    tier: 3
+    price: 1600
+    reload_time: 3.0
+    accuracy: 0.8
+    pellets: 10
+    range: 30
+    burst: 2
+    max_durability: 550
+    disappear_on_teleport: 1
+
+  - id: aug
+    name: "АУГ"
+    type: 1
+    damage: 30
+    magazine_capacity: 30
+    total_ammo: 0
+    caliber: "5.56x45"
+    tier: 4
+    price: 2500
+    reload_time: 2.2
+    accuracy: 0.9
+    pellets: 1
+    range: 50
+    burst: 5
+    max_durability: 500
+    disappear_on_teleport: 1
+
+  - id: vss
+    name: "ВСС"
+    type: 1
+    damage: 40
+    magazine_capacity: 10
+    total_ammo: 0
+    caliber: "9x39"
+    tier: 4
+    price: 3000
+    reload_time: 2.5
+    accuracy: 0.9
+    pellets: 1
+    range: 80
+    burst: 3
+    max_durability: 350
+    disappear_on_teleport: 1
+
+  - id: railgun
+    name: "Рельсотрон"
+    type: 1
+    damage: 250
+    magazine_capacity: 5
+    total_ammo: 0
+    caliber: "Электропатрон"
+    tier: 5
+    price: 8000
+    reload_time: 4.0
+    accuracy: 0.95
+    pellets: 1
+    range: 100
+    burst: 1
+    max_durability: 200
+    disappear_on_teleport: 1
+
+  - id: asval
+    name: "АСВАЛ"
+    type: 1
+    damage: 35
+    magazine_capacity: 20
+    total_ammo: 0
+    caliber: "9x39"
+    tier: 5
+    price: 5000
+    reload_time: 2.8
+    accuracy: 0.9
+    pellets: 1
+    range: 40
+    burst: 5
+    max_durability: 400
+    disappear_on_teleport: 1
