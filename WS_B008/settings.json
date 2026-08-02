@@ -1,0 +1,23 @@
+{
+    "fullscreen": false,
+    "borderless": false,
+    "resolution": "1280x720",
+    "volume": 0.5,
+    "map_scale": 50.0,
+    "show_fps": true,
+    "keys": {
+        "move_forward": "w",
+        "move_backward": "s",
+        "move_left": "a",
+        "move_right": "d",
+        "shoot": "mouse_left",
+        "reload": "r",
+        "weapon_1": "1",
+        "weapon_2": "2",
+        "weapon_3": "3",
+        "inventory": "i",
+        "chat": "t",
+        "interact": "e",
+        "pause": "escape"
+    }
+}

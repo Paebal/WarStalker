@@ -1,0 +1,12 @@
+Ошибка в редакторе карт:
+Traceback (most recent call last):
+  File "C:\Users\phant\Downloads\WS_B007\map_editor.py", line 2767, in <module>
+    editor.run()
+    ~~~~~~~~~~^^
+  File "C:\Users\phant\Downloads\WS_B007\map_editor.py", line 2749, in run
+    self.draw_right_panel()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\phant\Downloads\WS_B007\map_editor.py", line 968, in draw_right_panel
+    obj = objects[idx]
+          ~~~~~~~^^^^^
+IndexError: list index out of range

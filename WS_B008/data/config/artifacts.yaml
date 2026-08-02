@@ -1,0 +1,36 @@
+artifacts:
+  - id: slime
+    name: "Слизняк"
+    price: 1250
+    weight: 0.3
+    effect: "reduce_negative_effects_duration"
+    disappear_on_teleport: 0
+    quality: 1.0
+  - id: drop
+    name: "Капля"
+    price: 1200
+    weight: 0.2
+    effect: "health_regen"
+    disappear_on_teleport: 0
+    quality: 1.0
+  - id: kolobok
+    name: "Колобок"
+    price: 750
+    weight: 0.4
+    effect: "increase_carry_weight"
+    disappear_on_teleport: 0
+    quality: 1.0
+  - id: soul
+    name: "Душа"
+    price: 5000
+    weight: 0.5
+    effect: "resurrect_on_death"
+    disappear_on_teleport: 2
+    quality: 1.0
+  - id: mothers_beads
+    name: "Мамины Бусы"
+    price: 2000
+    weight: 0.3
+    effect: "increase_armor_absorption"
+    disappear_on_teleport: 0
+    quality: 1.0

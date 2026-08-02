@@ -1,0 +1,39 @@
+{
+    "player": {
+        "x": 645.9126117170301,
+        "y": 235.44939033455577,
+        "health": 100,
+        "max_health": 100,
+        "alive": true,
+        "inventory": {
+            "weapons": [
+                {
+                    "id": "knife",
+                    "name": "\u041d\u043e\u0436",
+                    "damage": 30,
+                    "type": 2,
+                    "magazine": 1,
+                    "total_ammo": 0,
+                    "max_magazine": 0
+                },
+                {
+                    "id": "glock_17",
+                    "name": "Glock-17",
+                    "damage": 15,
+                    "type": 2,
+                    "magazine": 8,
+                    "total_ammo": 8,
+                    "max_magazine": 8
+                }
+            ],
+            "active_index": 1
+        },
+        "direction_x": 0.6413820345711635,
+        "direction_y": 0.7672216666188167
+    },
+    "bullets": [],
+    "world": {
+        "width": 2000,
+        "height": 2000
+    }
+}

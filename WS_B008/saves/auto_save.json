@@ -1,0 +1,61 @@
+{
+    "player": {
+        "x": 36303.93844471593,
+        "y": 120946.45544737627,
+        "health": 100,
+        "max_health": 100,
+        "alive": true,
+        "inventory": {
+            "weapons": [
+                {
+                    "name": "\u041d\u043e\u0436",
+                    "type": 3,
+                    "damage_head": 50,
+                    "damage_body": 30,
+                    "magazine": 1,
+                    "total_ammo": 0,
+                    "max_magazine": 0,
+                    "reload_time": 0.5,
+                    "is_reloading": false,
+                    "reload_timer": 0.0,
+                    "accuracy": 0.8,
+                    "pellets": 1,
+                    "range": 20,
+                    "burst": 3,
+                    "max_durability": 1000,
+                    "durability": 1000
+                },
+                {
+                    "name": "\u041f\u041c",
+                    "type": 2,
+                    "damage_head": 30,
+                    "damage_body": 15,
+                    "magazine": 0,
+                    "total_ammo": 0,
+                    "max_magazine": 8,
+                    "reload_time": 4.0,
+                    "is_reloading": false,
+                    "reload_timer": -0.013999999999992671,
+                    "accuracy": 0.8,
+                    "pellets": 1,
+                    "range": 20,
+                    "burst": 3,
+                    "max_durability": 400,
+                    "durability": 400
+                },
+                null
+            ],
+            "active_index": 1
+        },
+        "direction_x": 0.9511630866914523,
+        "direction_y": -0.30868881177585394,
+        "stamina": 71.87249999999825
+    },
+    "bullets": [],
+    "world": {
+        "width": 150000,
+        "height": 150000
+    },
+    "map_scale": 50.0,
+    "current_map": "123123123"
+}
