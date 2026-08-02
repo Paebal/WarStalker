@@ -1,0 +1,42 @@
+# Деревня новичков (подлокация)
+name: "Деревня новичков"
+parent: "Кордон"
+x_offset: 300
+y_offset: 300
+width: 800
+height: 600
+
+objects:
+  - type: house
+    x: 0
+    y: 0
+    width: 120
+    height: 80
+    color: "#8B4513"
+  - type: house
+    x: 150
+    y: 0
+    width: 100
+    height: 70
+    color: "#A0522D"
+  - type: house
+    x: 300
+    y: 50
+    width: 90
+    height: 80
+    color: "#8B4513"
+  - type: tree
+    x: 50
+    y: 150
+    radius: 15
+    color: "#2d8a2d"
+  - type: tree
+    x: 200
+    y: 180
+    radius: 18
+    color: "#2d8a2d"
+  - type: tree
+    x: 400
+    y: 200
+    radius: 20
+    color: "#2d8a2d"

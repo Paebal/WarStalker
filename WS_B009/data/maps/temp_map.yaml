@@ -1,0 +1,29 @@
+name: Custom Map
+width: 3000
+height: 3000
+background_color: '#3a3a3a'
+objects:
+- type: tree
+  x: 668
+  y: 2467
+  width: 0
+  height: 0
+  color: '#ff0000'
+  radius: 30
+  shape: rect
+- type: building
+  x: 669
+  y: 2469
+  width: 50
+  height: 50
+  color: '#ff0000'
+  angle: 0
+  shape: triangle
+  a: 50
+  b: 50.0
+  alpha: 60
+  beta: 60
+  gamma: 60
+spawn:
+- 670
+- 2469

@@ -1,0 +1,14 @@
+name: Custom Map
+width: 3000
+height: 3000
+background_color: '#3a3a3a'
+objects:
+- type: tree
+  x: 668
+  y: 2467
+  radius: 30
+  color: '#ff0000'
+  angle: 0
+spawn:
+- 670
+- 2469
